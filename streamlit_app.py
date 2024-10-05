@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title('😁😁😁  First App Abubakr')
+st.title('😁😁😁  First App Behzod')
 
 st.write('Hello world!')
 
